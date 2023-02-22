@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../theme/animation/gradient_text.dart';
 
+var textAnimationGradient = GradientText();
 var defaultBackgroundColor = const Color.fromARGB(255, 46, 44, 44);
 var appBarColor = Colors.grey[900];
 var myAppBar = AppBar(
